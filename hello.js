@@ -1,5 +1,5 @@
 function hello() {
-	// TODO: change this string so that your program prints "Hello world!" 
+	console.log("Hello, World!"); 
 	// when you hit the replit run button
 	return "Hello!";
 }
